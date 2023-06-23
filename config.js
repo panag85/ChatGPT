@@ -16,7 +16,7 @@ export const WHITELISTED_IPS = [
 
 // OpenAI API Keys
 export let OPENAI_KEYS = [
-    "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "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",
     "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
